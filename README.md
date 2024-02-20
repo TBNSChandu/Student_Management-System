@@ -2,10 +2,10 @@
 Overview: The student_Management_System project simplifies the management of student data. Its primary objective is to streamline the process of maintaining accurate records of students.
 
 Key Functions
-.Addition of New Students
-.Deletion of Students
-.Updating Student Information
-.Displaying Detailed Student Information
+#Addition of New Students
+#Deletion of Students
+#Updating Student Information
+#Displaying Detailed Student Information
 
 
 Requirements
